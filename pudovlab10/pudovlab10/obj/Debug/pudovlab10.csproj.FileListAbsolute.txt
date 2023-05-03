@@ -1,0 +1,11 @@
+C:\Users\ЧЕЙСИЛА\Downloads\IM10-master\pudovlab10\pudovlab10\bin\Debug\pudov.lab10.exe.config
+C:\Users\ЧЕЙСИЛА\Downloads\IM10-master\pudovlab10\pudovlab10\bin\Debug\pudov.lab10.exe
+C:\Users\ЧЕЙСИЛА\Downloads\IM10-master\pudovlab10\pudovlab10\bin\Debug\pudov.lab10.pdb
+C:\Users\ЧЕЙСИЛА\Downloads\IM10-master\pudovlab10\pudovlab10\obj\Debug\pudovlab10.csproj.AssemblyReference.cache
+C:\Users\ЧЕЙСИЛА\Downloads\IM10-master\pudovlab10\pudovlab10\obj\Debug\pudovlab10.csproj.SuggestedBindingRedirects.cache
+C:\Users\ЧЕЙСИЛА\Downloads\IM10-master\pudovlab10\pudovlab10\obj\Debug\pudovlab10.Form1.resources
+C:\Users\ЧЕЙСИЛА\Downloads\IM10-master\pudovlab10\pudovlab10\obj\Debug\pudov.lab10.Properties.Resources.resources
+C:\Users\ЧЕЙСИЛА\Downloads\IM10-master\pudovlab10\pudovlab10\obj\Debug\pudovlab10.csproj.GenerateResource.cache
+C:\Users\ЧЕЙСИЛА\Downloads\IM10-master\pudovlab10\pudovlab10\obj\Debug\pudovlab10.csproj.CoreCompileInputs.cache
+C:\Users\ЧЕЙСИЛА\Downloads\IM10-master\pudovlab10\pudovlab10\obj\Debug\pudov.lab10.exe
+C:\Users\ЧЕЙСИЛА\Downloads\IM10-master\pudovlab10\pudovlab10\obj\Debug\pudov.lab10.pdb
